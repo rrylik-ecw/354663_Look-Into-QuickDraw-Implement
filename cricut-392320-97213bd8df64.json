@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cricut-392320",
+  "private_key_id": "97213bd8df64d6fec4ed2f208ac7c8811e65e584",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCPR8bOoqoiB62y\nklPfNE3eFySBn157YykIyKiiE0uiWf3cWIo66VZrNTsinkLEfSmEGiwckinHoQWq\ndosogBUtqZn2YHLcGcUGsBKZyZJ4Ec3U4B2JPosWNjHQ/KGUoG5azHwryawwG0nj\nV5fgaBxFZTKvLFd86ONvC7wK3LMr0jDRmYgN6FkkDl3JTyqpvwrkoUbGJ9x/Z57b\nPZwt6Hz2goL28XGmZPd9IQJlOCbRUJ/wRrXgabX+mNSlMVXDjT8D4pOLdV/yyj/F\nAA/uulKOd1AcO0IADZKASJ2aDDlm8Zy+qO4YK4dh6y1VNkJ3zNKHhsA9wNgEeTzq\nmNk5MZnDAgMBAAECggEAHsTxQsrX8nrnqGOYM2TOHBWoN1X8Ok8vLr24ySWPpovg\n4oL5HHGjp15FFsgZ2oxub/oW4wPYiRBhYRwYAliPM8EqWSiZQf8eurLxK6mIFNTt\n+PswHJsbz2dQB2tZX8ucJ0+mkti6a5JQqcvTx9NTzutOmSPSnfZ9cQl6FnMS3yPw\nJnltWR4aAQj2KZU/90qgSMEHqMvUMvwie1JSbuhf3S0Al1UT79hXwGmo9/sjo6Pw\nNG2a0wCWRx/5LuY1lIPMFCwGGm8W/ZeV8XiC4Ihy35RXsbJSYdk68+RoMfTDBsin\nLnkcKhwuuMWKVM/2SskRg0511OSsHCfFBox53AKIAQKBgQDC73c5/m2GKPe4eCAC\nF1swu5X//etjQmCSpeTsX5n4h/oYnoUMnWFF+1t1kwjKuolw80VruQoP3TZ520HI\nBdwQLc9coUvETOCjYSBB4rJz3k3OLuueh4nAV/8R0Gtt/uj1iQeDCQs6z+VezzfJ\nCzc4NxHPM3oE5TBxlfq/+sNKAQKBgQC8KerwaSDD74CYrwRGkySrWgXZNhxL29pP\noPpJjuIX68U+3cJMklcw20ZqjvRSwwEsueOU3ZIxUn3Qts+2lOLUZfPjFr3dC549\n5PBsftsGczR4ilwK22/Vjnzpa8ClEi9TJzgWyGYYdUdE5Qwh/dJQa+Mc/3Z/3yZu\nTaRP4GI7wwKBgBmmBmr0Bhcj5sw3ygZcalw0Il1nXIRX5HsHJuLPBWRFB+wbV2g8\ngOMDWppSuVJrTtA0wgqVczR5J8TKy5H062qZjHIkquJuNxRoICVrHY3PTy90zv2x\n2bccHOyMHsZ/RsmfuQRNuVOIrSZXX4CtYBuea1J29HQWb9RSJocCCJYBAoGAAr6p\nyq/95l3MBm4nJdBnrIg3pZ+AcirW2GqEvCX1blvmGLCrcOqBkxjfwhYrwjlN/xUH\nGNjSlR2a8Dx6czNgy7BhCmL+igbtXAHG8A45q7JqhYefKBljXD4j3FPSD5ZgUlo0\nG0D5HEo5q+ubbbOCKeIpAfdIBz1+FgXT68ZeKHkCgYAix8ng//EuiF65B54B+lxr\nhbponaXFRfxrPKLqA960aLIWktU/swZZWJEpgKAWagxorpsTuFPGbZTFexKW76me\n/yxJy2ED6tWyLJdJemonvAPrEDz3HNPsW7TX15TE9H42npmNYivQ92vBKmz9EW5X\nrX+AIMtTE76toq8t3fVm+Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "roman-rylik@cricut-392320.iam.gserviceaccount.com",
+  "client_id": "106548792665856220109",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/roman-rylik%40cricut-392320.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
